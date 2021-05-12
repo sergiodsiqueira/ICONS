@@ -1,2 +1,2 @@
 # ICONS
-Repositório de Ícones
+Repositório de Ícones Material Design
